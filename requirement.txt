@@ -1,3 +1,5 @@
 numpy
 ipykernel
 pandas
+bs4
+requests
