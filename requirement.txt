@@ -3,3 +3,4 @@ ipykernel
 pandas
 bs4
 requests
+flask
